@@ -1,11 +1,8 @@
-Name : Aditya Tiwari
-Entry: 2016csb1029
-###########################
-Naive Bayes Classifier:
+# Naive Bayes Classifier:
 
     To simply run the code for normal m,Enter
-        python main.py
-        
+       ``` python main.py ```
+       
         output is the top 5 words of spam and ham and accuracy on training and test
         
         
