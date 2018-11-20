@@ -20,7 +20,8 @@ Where
 <MP_IS_CONSTANT> is a boolean Value TRUE or FALSE   
 ```
 ```
-<MP_IS_CONSTANT> if is TRUE, would vary p for each M such that MxP always remains = 1 if false, it takes p = 1/|VOCAB|
+<MP_IS_CONSTANT> if is TRUE, would vary p for each M such that MxP always remains = 1 if false,   
+it takes p = 1/|VOCAB|
 ```
 e.g run:
 ```
